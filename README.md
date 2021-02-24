@@ -1,2 +1,2 @@
-# CustomDataLoader
-Creating a Custom DataLoader in Pytorch
+# CustomDataset
+Creating a Custom Dataset in Pytorch
